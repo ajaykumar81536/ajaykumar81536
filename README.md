@@ -5,7 +5,7 @@
   <a href="mailto:ajaykumar81536@gmail.com"><img src="https://img.shields.io/badge/Email-ajaykumar81536@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ajay-kumar-657888268/"><img src="https://img.shields.io/badge/LinkedIn-ajay--kumar-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/ajaykumar81536"><img src="https://img.shields.io/badge/GitHub-ajaykumar81536-black?style=flat-square&logo=github"></a>
-  <a href="https://drive.google.com/file/d/1b1gCZUld1AtdATOGSjZTJMUAv_q8zEA7/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-green?style=flat-square&logo=googledrive"></a>
+  <a href="https://drive.google.com/file/d/1ETmrd0m9XbTNxs6notpsT2aSMoeDxM9H/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-green?style=flat-square&logo=googledrive"></a>
 </p>
 
 ---
