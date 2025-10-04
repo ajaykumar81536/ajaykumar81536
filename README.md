@@ -9,7 +9,7 @@
 
 
 ---
-
+<br><br>
 
 ## ✨ Professional Snapshot & Impact
 
@@ -22,7 +22,7 @@ My passion lies in **data science**, where I aspire to analyze and interpret com
 
 
 ---
-
+<br><br>
 
 ## 🧠 Core Technical Expertise
 
@@ -35,7 +35,7 @@ My passion lies in **data science**, where I aspire to analyze and interpret com
 
 
 ---
-
+<br><br>
 
 ## 💼 High-Value Internships (4 Total)
 
@@ -57,7 +57,7 @@ My passion lies in **data science**, where I aspire to analyze and interpret com
 
 
 ---
-
+<br><br>
 
 ## 📂 Final Featured Projects & Solutions
 
@@ -72,7 +72,7 @@ This section highlights my expertise across predictive modeling, AI application 
 | **Stock Market Analysis** | Predictive Model | Forecasts stock price movements, achieving **92% accuracy**. I conducted EDA on 5 years of stock data to uncover key investment trends. | **Python**, **scikit-learn**, Pandas, Matplotlib. <a href="https://github.com/ajaykumar81536/Project1/blob/main/PYTHON/PROJECT/Stock_Market_Analysis.py">Link</a> |
 | **Python Multi-Game App** | CLI Application | Command Line Interface (CLI) application featuring quizzes and fun games. | **Python**. <a href="https://github.com/ajaykumar81536/Prev-Codes-and-Testing-Projects./blob/main/PYTHON/PROJECT/Multi_game1.py">Link</a> |
 
-
+<br><br>
 
 
 ### Ongoing Projects (AI & ML Applications)**
@@ -86,7 +86,7 @@ This section highlights my expertise across predictive modeling, AI application 
 
 
 ---
-
+<br><br>
 
 ## 🎓 Education
 
