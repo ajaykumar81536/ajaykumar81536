@@ -7,7 +7,9 @@
   <a href="https://drive.google.com/file/d/1ETmrd0m9XbTNxs6notpsT2aSMoeDxM9H/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-DOWNLOAD%20CV-green?style=flat-square&logo=googledrive"></a>
 </p>
 
+
 ---
+
 
 ## ✨ Professional Snapshot & Impact
 
@@ -18,7 +20,9 @@ My passion lies in **data science**, where I aspire to analyze and interpret com
 * **Key Skills:** **Machine Learning**, **Data Visualization (Power BI/Tableau)**, **Exploratory Data Analysis (EDA)**, and **Business Intelligence**.
 * **Availability:** Actively seeking **Data Science** or **AI/ML Developer** roles.
 
+
 ---
+
 
 ## 🧠 Core Technical Expertise
 
@@ -29,7 +33,9 @@ My passion lies in **data science**, where I aspire to analyze and interpret com
 | **Business Intelligence** | SQL, Python | **Power BI**, **Tableau**, MS Excel, MySQL, PostgreSQL |
 | **Web & Algorithms** | HTML, CSS, JavaScript, C++ | Django, Neo4j, Canvas API, Bootstrap |
 
+
 ---
+
 
 ## 💼 High-Value Internships (4 Total)
 
@@ -52,6 +58,7 @@ My passion lies in **data science**, where I aspire to analyze and interpret com
 
 ---
 
+
 ## 📂 Final Featured Projects & Solutions
 
 This section highlights my expertise across predictive modeling, AI application development, business intelligence, and web algorithms.
@@ -66,7 +73,10 @@ This section highlights my expertise across predictive modeling, AI application 
 | **Python Multi-Game App** | CLI Application | Command Line Interface (CLI) application featuring quizzes and fun games. | **Python**. <a href="https://github.com/ajaykumar81536/Prev-Codes-and-Testing-Projects./blob/main/PYTHON/PROJECT/Multi_game1.py">Link</a> |
 
 
+
+
 ### Ongoing Projects (AI & ML Applications)**
+
 
 | Project Name | Category | Key Impact & Explanation | Tech Stack & Link |
 | :--- | :--- | :--- | :--- |
@@ -74,7 +84,9 @@ This section highlights my expertise across predictive modeling, AI application 
 | **CareerMate** | AI-Driven Advisor | Evaluates user skills to suggest personalized learning paths, projects, and certifications to bridge skill gaps. | **Python**, **Django**, Machine Learning, SQL. <a href="">Link</a> |
 | **Risk Intelligence System** | Security/ML Application | Contributes to advanced threat analysis and security operations (UAE AI Tech Secure Company). | **Python**, Machine Learning, Data Security tools. <a href="">Link</a>|
 
+
 ---
+
 
 ## 🎓 Education
 
