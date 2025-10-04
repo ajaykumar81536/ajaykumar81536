@@ -75,7 +75,7 @@ This section highlights my expertise across predictive modeling, AI application 
 <br>
 
 
-### Ongoing Projects (AI & ML Applications)**
+### Ongoing Projects (AI & ML Applications)
 
 
 | Project Name | Category | Key Impact & Explanation | Tech Stack & Link |
