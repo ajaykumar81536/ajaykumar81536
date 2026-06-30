@@ -92,10 +92,10 @@ This section highlights my expertise across predictive modeling, AI application 
 
 * **Tezpur University**
     * B.Tech in Computer Science and Engineering
-    * CGPA: **7.28/10.0** (2022–2026)
+    * CGPA: **7.56/10.0** (2022–2026)
 
 * **Daroga PD Rai College**
-    * PCM (Physics, Chemistry, Math)
+    * PCM (Physics, Chemistry, Maths)
     * Score: **80.2%** (2019–2021)
 
 ---
